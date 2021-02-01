@@ -1,2 +1,3 @@
 # PBD-Activites
-Contains activites from 
+
+Contains java activities from "Programming by Doing" (programmingbydoing.com)
